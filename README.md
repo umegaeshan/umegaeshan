@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umega Eshan</h1>
 <h3 align="center">A passionate frontend developer from Sri LankaIndia</h3>
-
+---
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React Js**
@@ -8,7 +8,7 @@
 - 📫 How to reach me **umegaeshan@gmail.com**
 
 - ⚡ Fun fact **RAZOR**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umega eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umega eshan" height="30" width="40" /></a>
