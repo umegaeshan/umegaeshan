@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/umega eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umega eshan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/umega eshan](https://www.linkedin.com/in/umega-eshan-6baa06356/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umega eshan" height="30" width="40" /></a>
 <a href="https://fb.com/umega eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umega eshan" height="30" width="40" /></a>
 <a href="https://instagram.com/umega_eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umega_eshan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/umega eshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umega eshan" height="30" width="40" /></a>
