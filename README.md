@@ -45,6 +45,3 @@
 ---
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=umegaeshan" alt="visitors" />
-</p>
