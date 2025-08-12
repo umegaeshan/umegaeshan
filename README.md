@@ -44,12 +44,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umegaeshan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=umegaeshan" alt="visitors" />
