@@ -29,8 +29,9 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,php,git" />
+   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,python,php,git" />
 </p>
+
 
 
 ---
