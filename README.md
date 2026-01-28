@@ -10,7 +10,7 @@
 ---
 
 ### 📌 About Me
-- 🌱 **Currently Learning**: React JS  
+- 🌱 **Currently Learning**: PHP  
 - 💬 **Ask Me About**: React JS, JavaScript, Frontend Development  
 - 📫 **Reach Me At**: **umegaeshan@gmail.com**  
 - ⚡ **Fun Fact**: *RAZOR*
