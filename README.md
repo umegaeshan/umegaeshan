@@ -32,12 +32,14 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats & Language Percentages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umegaeshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umegaeshan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Language Percentages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umegaeshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umegaeshan&layout=donut&theme=tokyonight&hide_border=true" alt="Language Percentages" />
 </p>
 
 <p align="center">
