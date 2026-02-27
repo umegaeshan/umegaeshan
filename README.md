@@ -26,22 +26,22 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,php,python,flutter,dart,linux,mysql,aws,vscode,git" />
-</p>
-
----
 ### 📊 GitHub Stats & Language Percentages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umegaeshan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/umegaeshan">
+    <img src="https://github-readme-stats.vercel.app/api?username=umegaeshan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umegaeshan&layout=donut&theme=tokyonight&hide_border=true" alt="Language Percentages" />
+  <a href="https://github.com/umegaeshan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umegaeshan&layout=donut&theme=tokyonight&hide_border=true" alt="Language Percentages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umegaeshan&theme=tokyonight&hide_border=true" alt="streak" />
+  <a href="https://github.com/umegaeshan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umegaeshan&theme=tokyonight&hide_border=true" alt="streak" />
+  </a>
 </p>
