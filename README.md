@@ -1,18 +1,17 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Umega Eshan</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from Sri Lanka</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF9F&center=true&vCenter=true&width=600&lines=🌱+Currently+learning+Dart;💬+Ask+me+about+Dart;⚡+Fun+fact:+RAZOR;💻+Loves+Coding+and+UI+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF9F&center=true&vCenter=true&width=600&lines=🌱+Currently+learning+Dart+%26+Flutter;🔭+Working+with+PIXCODE+Hub;💬+Ask+me+about+Frontend+Dev;⚡+Fun+fact:+RAZOR;💻+Loves+Coding+and+UI+Design" />
 </p>
 
 ---
 
 ### 📌 About Me
-- 🌱 **Currently Learning**: PHP  
-- 💬 **Ask Me About**: React JS, JavaScript, Frontend Development  
-- 📫 **Reach Me At**: **umegaeshan@gmail.com**  
+- 🔭 **Currently Working On**: A PHP-based Student Management System & ODARA E-commerce platform with PIXCODE Hub.
+- 🌱 **Currently Learning**: PHP, Flutter, Dart & Cloud Technologies.
+- 💬 **Ask Me About**: React JS, JavaScript, UI Design, and Frontend Development.
+- 📫 **Reach Me At**: **umegaeshan@gmail.com**
 - ⚡ **Fun Fact**: *RAZOR*
 
 ---
@@ -29,21 +28,18 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,python,php,git" />
-</p>
-
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umegaeshan&theme=tokyonight" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umegaeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,php,python,flutter,dart,linux,mysql,aws,vscode,git" />
 </p>
 
 ---
 
+### 📊 GitHub Stats & Language Percentages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umegaeshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umegaeshan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Language Percentages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umegaeshan&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
